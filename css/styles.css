@@ -1,9 +1,9 @@
 .main {
      font-family: oswald;
      font-size: 20px;
+     background-color: black;
      background-image: url("/img/backgroundrepeating.jpg");
      background-repeat: repeat;
-     background-color: black;
 }
 .me {
      border: dotted black;
