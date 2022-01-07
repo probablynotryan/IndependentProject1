@@ -8,18 +8,21 @@
 * Bootstrap 5.1
 * Javascript
 ## Description
-This page is a demostration of some of the skills I've acquired in the first week of being a student at Epicodus.
+This page is introductory portfolio, illustrating some of the languages I've learned during my time with Epicodus thus far.
 
 ### Setup/Installation Requirements
 * Click the page link above on a supported browser, such as Microsoft Edge or Chrome.
+or
+* Clone this repository to your computer.
+* Run / open "index.html" in a supported browser.
 
 ## Known Bugs
 None to report.
 
-## Other known issues
-* When viewed on mobile, the profile picture and text are not centered.
+## Notes
+* When viewed on some mobile devices, the profile picture is not centered properly.
 
 ## License
 MIT
 
-Copyright (c) Ryan Bass (github.com/probablynotryan)
+Copyright 2022 (c) Ryan Bass (github.com/probablynotryan)
