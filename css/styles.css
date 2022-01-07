@@ -8,3 +8,6 @@ body {
 a {
      color: yellow;
 }
+.rightside {
+     float: right;
+}
