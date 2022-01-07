@@ -4,18 +4,15 @@
      /* background-image: url("img/backgroundrepeating.jpg"); */
      background-color: black;
 }
-/* a {
-     color: yellow;
-} */
-h1 {
-     color: blue;
+.main img {
+     border: dotted black;
 }
-.leftside {
+/* .leftside {
      margin-bottom: 10px;
      margin-right: 10px;
      border: dotted black;
      float: left;
-}
+} */
 .warning {
      color: red;
      font-weight: bold;
