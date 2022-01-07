@@ -1,5 +1,5 @@
 # Independent Project #1
-#### https://probablynotryan.github.io/IndependentProject1
+#### https://probablynotryan.github.io/PortfolioLandingPage
 #### By Ryan Bass
 ### A webpage of what I've learned so far in the first week of my time at Epicodus
 ## Technologies Used
