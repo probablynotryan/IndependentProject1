@@ -3,15 +3,15 @@
 #### By Ryan Bass
 ### A webpage of what I've learned so far in the first week of my time at Epicodus
 ## Technologies Used
-* HTML
-* CSS
+* HTML 5
+* CSS 3
 * Bootstrap 5.1
 * Javascript
 ## Description
-This page is primarily written in HTML/CSS and Bootstrap, and contains a few links to some other exercises I've done in class to help me better understand the material we've been working on.
+This page is a demostration of some of the skills I've acquired in the first week of being a student at Epicodus.
 
 ### Setup/Installation Requirements
-* An internet browser
+* Click the page link above on a supported browser, such as Microsoft Edge or Chrome.
 
 ## Known Bugs
 None to report.
