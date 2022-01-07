@@ -5,18 +5,8 @@
      background-repeat: repeat;
      background-color: black;
 }
-.main img {
+.col-4 img {
      border: dotted black;
-}
-/* .leftside {
-     margin-bottom: 10px;
-     margin-right: 10px;
-     border: dotted black;
-     float: left;
-} */
-.warning {
-     color: red;
-     font-weight: bold;
 }
 .container {
      padding-top: 15px;
@@ -32,4 +22,7 @@
 }
 .pandemic {
      color: darkgreen;
+}
+.floatright {
+     float: right;
 }
