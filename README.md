@@ -6,6 +6,7 @@
 * HTML
 * CSS
 * Bootstrap 5.1
+* Javascript
 ## Description
 This page is primarily written in HTML/CSS and Bootstrap, and contains a few links to some other exercises I've done in class to help me better understand the material we've been working on.
 
