@@ -16,6 +16,9 @@ This page is primarily written in HTML/CSS and Bootstrap, and contains a few lin
 ## Known Bugs
 None to report.
 
+## Other known issues
+* When viewed on mobile, the profile picture and text are not centered.
+
 ## License
 MIT
 
