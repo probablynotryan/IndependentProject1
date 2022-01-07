@@ -1,13 +1,17 @@
-body {
+/* body {
      background-color: black;
-}
+} */
 .main {
      font-family: oswald;
-     color: white;
+     /* color: white; */
 }
-a {
+/* a {
      color: yellow;
-}
+} */
 .rightside {
      float: right;
+}
+.warning {
+     color: red;
+     font-weight: bold;
 }
