@@ -19,11 +19,16 @@
      font-weight: bold;
 }
 .container {
+     padding-top: 15px;
+     padding-left: 30px;
      background-color: white;
      margin-top: 30px;
      margin-bottom: 20px;
-     padding: 20px;
      border: solid gray;
+}
+.containerbodytext {
+     padding-left: 40px;
+     padding-right: 40px;
 }
 .pandemic {
      color: darkgreen;
