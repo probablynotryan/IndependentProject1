@@ -5,7 +5,7 @@
      background-repeat: repeat;
      background-color: black;
 }
-.col-4 img {
+.me{
      border: dotted black;
 }
 .container {
@@ -25,4 +25,10 @@
 }
 .floatright {
      float: right;
+}
+.d-flex {
+     margin: -10px;
+}
+.d-flex img {
+     padding: 2px;
 }
